@@ -24,6 +24,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\code\JobSheet7_Clustering\data\csv\mall_customers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\csv\Iris.csv">
           <value>
             <Attribute>

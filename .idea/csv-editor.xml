@@ -10,6 +10,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\code\JobSheet6_Ensemble\csv\diabetes.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\code\JobSheet6_Ensemble\csv\mushrooms.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\csv\Iris.csv">
           <value>
             <Attribute>
